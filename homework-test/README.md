@@ -1,6 +1,7 @@
 # Vitest ile Test Yazma Ödevi
 
 Bu proje, "Hafta 5 - Gün 2" kapsamında verilen Vitest ve React Testing Library pratiklerini içeren bir ödev projesidir.
+[Ana Proje](`https://github.com/berkeguvenc/homework-test`)
 
 ## Proje İçeriği
 
